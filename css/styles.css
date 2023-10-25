@@ -1,0 +1,18 @@
+#main{
+    text-align: center;
+    /*
+    word-wrap: break-word;
+    width: 1000px;
+    */
+    line-height: 150px;
+    color: white;
+}
+h2{
+    line-height: 30px;
+    text-align: center;
+    color:white;
+}
+body{
+    background-color: black;
+}
+

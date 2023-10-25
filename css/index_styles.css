@@ -1,0 +1,47 @@
+#header{
+    text-align: center;
+    text-decoration-color: orange;
+}
+#main{
+    text-align: center;
+    /*
+    word-wrap: break-word;
+    width: 1000px;
+    */
+    line-height: 150px;
+}
+h2{
+    line-height: 30px;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+h1{
+    color: orange;
+}
+
+.next{
+    color: gray;
+    text-align: center;
+}
+
+a{
+    color:orange;
+}
+
+@keyframes rainbow {
+    0% { color: violet; }
+    14% { color: indigo; }
+    28% { color: blue; }
+    42% { color: green; }
+    57% { color: yellow; }
+    71% { color: orange; }
+    85% { color: red; }
+    100% { color: violet; }
+}
+
+.ad{
+    animation: rainbow 4s linear infinite;
+}
