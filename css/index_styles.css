@@ -17,6 +17,10 @@ h2{
 body{
     background-color: black;
 }
+#description{
+    color: white;
+    height: 100px;
+}
 
 h1{
     color: orange;
